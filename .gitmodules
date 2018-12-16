@@ -1,0 +1,3 @@
+[submodule "themes/twentyeighteen"]
+	path = themes/twentyeighteen
+	url = https://github.com/loopnaz/twentyeighteen.git
