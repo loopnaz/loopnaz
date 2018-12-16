@@ -4,7 +4,7 @@ publishDir = "docs"
 title = "The Loop Church of the Nazarene and Compassionate Ministries"
 theme = "twentyeighteen"
 copyright = "Copyright &copy; 2018 by The Loop Church of the Nazarene"
-# googleAnalytics = ""
+googleAnalytics = "UA-65255971-4"
 minify = false
 
 [params]
