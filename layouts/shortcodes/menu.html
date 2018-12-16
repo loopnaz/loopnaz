@@ -1,0 +1,19 @@
+<!--	
+	@see https://discourse.gohugo.io/t/place-a-menu-anywhere-in-your-markdown-file-via-a-shortcode/14222/2 
+-->
+{{ $currentPage := $.Page }}
+{{ $menuName := .Get 0 }}
+{{ $rangeData := index $.Site.Menus $menuName }}
+{{ if eq $menuName "social" }}
+	{{ partial "social.html" . }}
+{{ else }}
+	<nav class="{{ $menuName }}">
+		<ul>
+			{{ range $rangeData }}
+				<li>
+					<a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+				</li>
+			{{ end }}
+		</ul>
+	</nav>
+{{ end }}

@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html><head>
+	
+		<link rel="shortcut icon" href="https://loopnaz.org/img/favicon.ico" type="image/x-icon">
+	<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<title>
+	Terms of Use&nbsp;|&nbsp;@loopnaz
+	
+</title>
+<style type="text/css">
+	/* Normalize */
+html {
+	line-height: 1.15;
+	-webkit-text-size-adjust: 100%;
+}
+
+body,
+h1,
+nav ul {
+	margin: 0;
+}
+
+figure,
+h2,
+h3,
+h4,
+h5,
+iframe {
+	margin: 0 0 1em 0;
+}
+
+section h2 {
+	width: 100%;
+}
+
+a {
+	background-color: transparent;
+}
+
+img {
+	border-style: none;
+}
+
+section p {
+	font-size: larger;
+	margin-top: 0;
+}
+
+/* Layout */
+html {
+	  height: 100%;
+}
+
+body {
+	min-height: 100%;
+	display: grid;
+	grid-template-rows: 1fr auto;
+}
+
+body > footer {
+	grid-row-start: -1;
+}
+
+main > article,
+.content,
+main > section,
+.menu ul:not(.hidden),
+p img {
+	display: flex;
+}
+
+main > article,
+.content,
+main > section,
+.menu ul {
+	flex-direction: column;	
+}
+
+main > article,
+.content,
+main > section {
+	justify-content: center;
+	align-items: center;
+}
+
+header,
+img,
+main,
+p {
+	width: 100%;
+}
+
+/* Visibility */
+.hidden {
+	display: none;
+	visibility: hidden;
+}
+
+/* Typography */
+html {
+	font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+h1,
+.menu ul li {
+	text-align: center;
+}
+
+button,
+blockquote::before,
+blockquote::after,
+blockquote span,
+.menu ul li:last-of-type a {
+	font-weight: 600;
+}
+
+blockquote {
+	color: grey;
+	position: relative;
+	max-width: calc(100% - 4em);
+	margin: 1em 0;
+}
+
+blockquote::before,
+blockquote::after {
+	font-size: 3em;
+	position: absolute;
+}
+
+blockquote::before {
+	content: "\201C";
+	top: -0.15em;
+	left: -0.5em;
+}
+
+blockquote::after {
+	content: "\201D";
+	bottom: -0.25em;
+	right: -0.5em;
+}
+
+cite {
+	font-style: normal;
+}
+
+blockquote figure {
+	float: right;
+}
+
+blockquote cite {
+	display: block;
+	font-size: smaller;
+	text-align: right;
+}
+
+blockquote cite:before {
+	content: "\2014"
+}
+
+.x-large {
+	font-size: x-large;
+}
+
+main ol,
+main ul {
+	margin: 0 auto 1em 0;
+}
+
+main ul {
+	list-style: square url('/img/svg/chicago-star.svg') outside;
+}
+
+/* Navigation */
+nav ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+nav ul li a {
+	text-decoration: none;
+}
+
+nav button {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+button, 
+.menu ul li:last-of-type a {
+	background: transparent;
+	border: 2px solid #fff;
+	padding: 3px 7px;
+	margin: 2px;
+	color: #fff;
+	border-radius: 13px;
+}
+
+.menu ul:not(.hidden) {
+    background-color: #000;
+	background-color: rgba(0,0,0,0.77);
+}
+
+.menu ul {
+	justify-content: space-around;
+}
+
+.menu ul li {
+	padding: 0.5em 0;
+}
+
+/* Links */
+header a {
+    color: inherit;
+}
+
+main a {
+    color: #00a1de;
+    font-weight: 600;
+}
+
+main a:focus,
+main a:hover {
+    color: #c60c30;
+}
+
+main a:visited,
+footer a:not(.social):visited {
+	color: #522398;
+}
+
+header a:focus,
+header a:hover,
+footer a:focus,
+footer a:focus,
+button:focus,
+button:hover {
+	cursor: pointer;
+	opacity: 0.77;
+}
+
+footer a {
+	text-decoration: none;
+}
+
+/* Vector Images */
+figure svg {
+	max-width: 100%;
+	height: auto;
+}
+
+.blue svg {
+	fill: #00a1de;
+}
+
+.red svg {
+	fill: #c60c30;
+}
+
+.white svg {
+	fill: #fff;
+}
+
+/* Background */
+.background-image {
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+}
+
+/* Header */
+body > header {
+	background-color: #000;
+	background-color: rgba(0,0,0,0.77);
+	color: #fff;
+	height: 32px;
+	position: fixed;
+	top: 0;
+	z-index: 999;
+}
+
+body > header svg {
+	fill: #fff;
+	height: 28px;
+	width: auto;
+	padding-top: 2px;
+	padding-left: 2px;
+	margin-bottom: -2px;
+}
+
+/* Main */
+main {
+	padding-top: 32px;
+}
+
+main .center {
+	grid-column: span 2;
+}
+
+/* Footer */
+body > footer {
+	background-color: #eee;
+	font-size: smaller;
+	padding: 0 1em;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-content: center;
+	min-height: 160px;
+}
+
+/* Content */
+.content {
+	padding: 1em;
+	width: calc(100% - 2em);
+	max-width: 49.5em;
+}
+
+main > article header.background-image {
+	color: #fff;
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.77);
+	min-height: 320px;
+	height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+article header.background-image h1 {
+	flex: 0 0 auto;
+	margin: auto;
+}
+
+article header.background-image p {
+	font-weight: 900;
+	text-align: right;
+}
+
+/* Aside */
+main + aside {
+	grid-row-start: 1;
+}
+
+p img {
+	margin: 0 auto;
+}
+
+/* Colors */
+.red {
+	color: #c60c30;
+}
+
+.blue {
+	color: #00a1de;
+}
+
+/* Social Icons */
+footer nav {
+	width: 66vw;
+	margin: auto;
+}
+
+footer nav ul,
+.social ul {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.social svg {
+	fill: #bcbcbc;
+	height: 1.5em;
+	width: auto;
+}
+
+.twitter svg:hover {
+	fill: #55acee;
+}
+
+.facebook svg:hover {
+	fill: #3b5999;
+}
+
+.linkedin svg:hover {
+	fill: #0077b5;
+}
+
+.instagram svg:hover {
+	fill: #fbad50;
+}
+
+.github svg:hover {
+	fill: #171515;
+}
+
+.google-plus svg:hover {
+	fill: #dd4b39;
+}
+
+@media screen and (min-width: 640px) {
+	body > header {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	nav button {
+		display: none;
+		visibility: hidden;
+	}
+	.menu {
+		flex: 1 0 auto;
+		margin: auto;
+	}
+
+	.menu ul {
+		display: flex;
+		flex-direction: row;
+		visibility: visible;
+		background-color: unset;
+	}
+
+	.menu ul li {
+		padding: unset;
+	}
+}
+
+@media screen and (min-width: 800px) {
+	body > footer {
+		flex-direction: row;
+		min-height: unset;
+	}
+
+	footer nav {
+		width: 33vw;
+	}
+}
+
+footer :not(.social) a:hover {
+	color: #00a1de;
+	text-decoration: underline;
+}
+
+.give-button a {
+	background: rgba(0, 161, 222, 1.0);
+	border: 2px solid #00a1de;
+	border-radius: 3em;
+	color: #fff !important;
+	display: block;
+	width: 25vw;
+	min-width: 200px;
+	margin: 0 auto;
+	text-align: center;
+	text-decoration: none;
+	padding: 1em;
+}
+
+	
+	
+	
+	
+	
+</style>
+
+<link href="https://fonts.googleapis.com/css?family=Raleway:300,600&amp;subset=latin-ext" rel="stylesheet"> 
+
+
+</head>
+
+	<body class="page page"><header id="site-header">
+	<h1 class="hidden">The Loop Church of the Nazarene and Compassionate Ministries</h1>
+	<div>
+		<a href="/"><svg xmlns="http://www.w3.org/2000/svg" width="320" height="59.335" viewBox="0 0 84.66668 15.699007"><title>LoopNaz Header Logo</title><g baseline-shift="super"><path d="M84.33 15.33h.07l.1.25.1-.25h.07v.37h-.05v-.33l-.1.25h-.04l-.1-.25v.32h-.05zm-.36 0h.3v.04h-.12v.32h-.04v-.33h-.13zm-10-2.1l5.3-6.3H74.3V4.08h9.35v2.47l-5.28 6.28h5.48v2.88h-9.88zm-6.1-9.16h2.93l4.03 11.63h-3.25l-.7-2.28h-3.1l-.7 2.28h-3.24zm2.5 7.22l-1.03-3.6-1.08 3.6zm-15.4-3.32v7.72h-4.3V0h3.36l6.3 7.98V0h4.3v15.7h-3.42zm-50.66 3.8h7.13v.16H4.3zm34.32 3.92V0h6.77q1.13 0 2.1.5.98.45 1.66 1.22.7.76 1.1 1.75.4.98.4 1.97 0 1.04-.37 2.03-.38.98-1.07 1.75-.66.75-1.63 1.22-.95.44-2.1.44h-2.57v4.82zm4.3-8.58h2.3q.38 0 .72-.36.35-.37.35-1.32 0-.98-.4-1.33-.4-.34-.8-.34h-2.17zm-17.9-3.2l5.23 1.2L31.82 0l1.57 5.13 5.22-1.2-3.66 3.92 3.66 3.92-5.23-1.2-1.58 5.13-1.56-5.13-5.23 1.2 3.65-3.92zm-13.6 0l5.24 1.2L18.23 0l1.57 5.13 5.22-1.2-3.65 3.92 3.65 3.92-5.22-1.2-1.57 5.13-1.57-5.13-5.23 1.2 3.66-3.92zM0 0v15.7h11.43v-3.76H4.3V0zm3.04.75h.8v2.42H.45V.8h.82v1.43h.48V1h.76v1.23h.53zM.44 6.3h3.4v.94H2.53v1.13h1.32v.94H.44V8.4H1.7V7.24H.45zm0 5.76h.82v.98h2.6v.93h-2.6v.98h-.8z"/></g></svg></a>
+	</div><nav class="menu">
+	<button type="button" aria-expanded="false">Menu</button>
+	<ul class="hidden">	
+		
+			<li>
+				<a href="/about/" title="">About Us</a>
+			</li>
+		
+			<li>
+				<a href="/partners/" title="">Our Partners</a>
+			</li>
+		
+			<li>
+				<a href="/join/" title="">Join Us</a>
+			</li>
+		
+			<li>
+				<a href="/contact/" title="">Contact Us</a>
+			</li>
+		
+			<li>
+				<a href="/support/" title="">Support Us</a>
+			</li>
+		
+	</ul>
+</nav>
+
+</header>
+
+	<main id="main">
+		<article>
+			
+			<header>
+				<h1>Terms of Use</h1>
+			
+			</header>
+			<section class="content">
+				
+				
+
+<p>Effective as of November 25, 2018</p>
+
+<h2 id="general-information">General Information</h2>
+
+<p><strong>Terminology:</strong> Welcome, and thank you for your interest in The Loop Church of the Nazarene and Compassionate Ministries (“The Loop Church of the Nazarene,” “The Loop Nazarene Compassionate Ministries, Inc.,”  LoopNaz,” “we,” “our,” or “us”). Unless otherwise noted on a particular site or service, these terms of use (“Terms”) apply to your use of all of the websites that LoopNaz operates. These include <a href="https://loopnaz.org">https://loopnaz.org</a> and <a href="https://loopnaz.church">https://loopnaz.church</a> (collectively, the “Websites”).</p>
+
+<h2 id="your-agreement-to-the-terms">Your Agreement to the Terms</h2>
+
+<p>By clicking “I accept” or otherwise accessing or using any of the Services, you acknowledge that you have read, understood, and agreed to be bound by the terms. By clicking “I accept” or otherwise accessing or using any Services you also represent that you have the legal authority to accept the Terms on behalf of yourself and any party you represent in connection with your use of any Services. If you do not agree to the Terms, you are not authorized to use any Services. If you are an individual who is entering into these Terms on behalf of an entity, you represent and warrant that you have the power to bind that entity, and you hereby agree on that entity’s behalf to be bound by these Terms, with the terms “you,” and “your” applying to you, that entity, and other users accessing the Services on behalf of that entity.</p>
+
+<h2 id="changes-to-the-terms">Changes to the Terms</h2>
+
+<p>From time to time, LoopNaz may change, remove, or add to the Terms, and reserves the right to do so in its discretion. In that case, we will post updated Terms and indicate the date of revision. If we feel the modifications are material, we will make reasonable efforts to post a prominent notice on the relevant Website(s) and notify those of you with a current CC Login Service account via email. All new and/or revised Terms take effect immediately and apply to your use of the Services from that date on, except that material changes will take effect 30 days after the change is made and identified as material. Your continued use of any Services after new and/or revised Terms are effective indicates that you have read, understood, and agreed to those Terms.</p>
+
+<h2 id="content-available-through-the-services">Content Available through the Services</h2>
+
+<p><strong>Provided as-is:</strong> You acknowledge that LoopNaz does not make any representations or warranties about the material, data, and information, such as data files, text, computer software, code, music, audio files or other sounds, photographs, videos, or other images (collectively, the “Content”) which you may have access to as part of, or through your use of, the Services. Under no circumstances is LoopNaz liable in any way for any Content, including, but not limited to: any infringing Content, any errors or omissions in Content, or for any loss or damage of any kind incurred as a result of the use of any Content posted, transmitted, linked from, or otherwise accessible through or made available via the Services. You understand that by using the Services, you may be exposed to Content that is offensive, indecent, or objectionable.</p>
+
+<p>You agree that you are solely responsible for your reuse of Content made available through the Services, including providing proper attribution. You should review the terms of the applicable license before you use the Content so that you know what you can and cannot do.</p>
+
+<p><strong>Licensing:</strong> Other than LoopNaz trademarks (subject to the <a href="/trademark/">Trademark Policy</a>), and the software code, all Content on the Websites is licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, unless otherwise marked.</p>
+
+<p><strong>LoopNaz-Owned Code:</strong> All of LoopNaz’s software code is free software; please check our <a href="https://github.com/loopnaz/">code repository</a> for the specific license on software you want to reuse.</p>
+
+<h2 id="disclaimer-of-warranties">Disclaimer of Warranties</h2>
+
+<p>To the fullest extent permitted by applicapble law, LoopNaz offers the services as-is and makes no representation or warranties of any kind concerning the services, express, implied, statutory, or otherwise, including without limitation, warranties or title, merchantability, fitness for a particular purpose, or non-infringement, LoopNaz does not warrant that the functions of the services will be uninterrupted or error-free, that content made available on or through the services will be error-free, that defects will be correctd, or that any serves used by LoopNaz are free from viruses or other harmful components. LoopNaz does not warrant or make any representation regarding use of the consent available through the services in terms of accurarcy, reliability, or otherwise.</p>
+
+<h2 id="limitation-of-liability">Limitation of Liability</h2>
+
+<p>To the fullest extent permitted by applicable law, in no event will LoopNaz be liable to you or any legal authroity for any incidental, direct, indirect, punitive, actual, consequential, special, exemplary, or other damabes, including without limitation, loss of revenue or income, lost profits, pain and suffering, emotional distress, cost of substitute goods or services, or similar damages suffered or incurred by you or any third party that arises in connection with the services (or the termination thereof for any reason), even if LoopNaz has been advised of the possibility of such damages.</p>
+
+<p>To the fullest extent permitted by applicable law, LoopNaz is not responsible or liable whatsoever in any manner for any content posted or available trhough the services (including claims of infringement relating to that content), for your use of the services, or for the conduct of third parties on or through the services.</p>
+
+<p>Certain jurisdictions do not permit the exclusion of certain warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply to you. In these jurisdictions, the foregoing exclusions and limitations will be enforced to the fullest extent by appliable law.</p>
+
+<h2 id="indemnification">Indemnification</h2>
+
+<p>To the extent authorized by law, you agree to indemnify and hold harmless LoopNaz, its employees, officers, directors, subsidiaries, partners, affiliates, and agents from and against any and all claims, losses, expenses, damages, and costs, including reasonable attorneys’ fees, resulting directly or indirectly from or arising out of (a) your violation of the Terms and/or (b) your use of any of the Services.</p>
+
+<h2 id="privacy-policy">Privacy Policy</h2>
+
+<p>LoopNaz is committed to responsibly handling the information and data we collect through our Services in compliance with our <a href="/privacy/">Privacy Policy</a>, which is incorporated by reference into these Terms. Please review the Privacy Policy so you are aware of how we collect and use your personal information.</p>
+
+<h2 id="trademark-policy">Trademark Policy</h2>
+
+<p>The name, logos, icons, and other trademarks may only be used in accordance with our <a href="/trademark/">Trademark Policy</a>, which is incorporated by reference into these Terms. Please review the Trademark Policy so you understand how LoopNaz’s trademarks may be used.</p>
+
+<h2 id="copyright-complaints">Copyright Complaints</h2>
+
+<p>LoopNaz respects copyright, and we prohibit users of the Services from submitting, uploading, posting, or otherwise transmitting any Content on the Services that violates another person’s proprietary rights.</p>
+
+<p>To report allegedly infringing Content hosted on a website owned or controlled by LoopNaz, please send us a message through the contact form on the corresponding website.</p>
+
+<h2 id="termination">Termination</h2>
+
+<p><strong>By LoopNaz:</strong> LoopNaz may modify, suspend, or terminate the operation of, or access to, all or any portion of the Services at any time for any reason. Additionally, your individual access to, and use of, the Services may be terminated by LoopNaz at any time and for any reason.</p>
+
+<p><strong>By you:</strong> If you wish to terminate this agreement, you may immediately stop accessing or using the Services at any time.</p>
+
+<p><strong>Automatic upon breach:</strong> Your right to access and use the Services automatically upon your breach of any of the Terms. For the avoidance of doubt, termination of the Terms does not require you to remove or delete any reference to LoopNaz from your own Content.</p>
+
+<p><strong>Survival:</strong> The disclaimer of warranties, the limitation of liability, and the jurisdiction and applicable law provisions will survive any termination. The license grants applicable to Your Content are not impacted by the termination of the Terms and shall continue in effect subject to the terms of the applicable license. Your warranties and indemnification obligations will survive for one year after termination.</p>
+
+<h2 id="miscellaneous-terms">Miscellaneous Terms</h2>
+
+<p><strong>Choice of law:</strong> The Terms are governed by and construed by the laws of the State of Illinois in the United States, not including its choice of law rules.</p>
+
+<p><strong>Dispute resolution:</strong> The parties agree that any disputes between LoopNaz and you concerning these Terms, and/or any of the Services may only brought in a federal or state court of competent jurisdiction sitting in the County of Cook of the State of Illinois, and you hereby consent to the personal jurisdiction and venue of such court.</p>
+
+<p>If you are an authorized agent of a government or intergovernmental entity using the Services in your official capacity, including an authorized agent of the federal, state, or local government in the United States, and you are legally restricted from accepting the controlling law, jurisdiction, or venue clauses above, then those clauses do not apply to you. For any such US federal government entities, these Terms and any action related thereto will be governed by the laws of the United States of America (without reference to conflict of laws) and, in the absence of federal law and to the extent permitted under federal law, the laws of the State of Illinois (excluding its choice of law rules).</p>
+
+<p><strong>No waiver:</strong> Either party’s failure to insist on or enforce strict performance of any of the Terms will not be construed as a waiver of any provision or right.</p>
+
+<p><strong>Severability:</strong> If any part of the Terms is held to be invalid or unenforceable by any law or regulation or final determination of a competent court or tribunal, that provision will be deemed severable and will not affect the validity and enforceability of the remaining provisions.</p>
+
+<p><strong>No agency relationship:</strong> The parties agree that no joint venture, partnership, employment, or agency relationship exists between you and LoopNaz as a result of the Terms or from your use of any of the Services.</p>
+
+<p><strong>Integration:</strong> These Terms constitute the entire agreement between you and LoopNaz relating to this subject matter and supersede any and all prior communications and/or agreements between you and LoopNaz relating to access and use of the Services.</p>
+
+			</section>
+		</article>
+	</main>
+<footer id="site-footer">
+<p><a href="/trademark/">Copyright</a> &copy; The Loop Church of the Nazarene</p>
+<nav>
+	<ul class="row">	
+		
+			<li>
+				<a href="/terms/" title="">Terms</a>
+			</li>
+		
+			<li>
+				<a href="/privacy/" title="">Privacy</a>
+			</li>
+		
+			<li>
+				<a href="/colophon/" title="">Credits</a>
+			</li>
+		
+	</ul>
+</nav>
+<nav class="social">
+	<ul>
+		
+		<li>
+			<a class="twitter" href="https://twitter.com/loopnaz/">
+				<svg xmlns="http://www.w3.org/2000/svg" width="19.691" height="16" viewBox="0 0 19.691057 16.000006"><path d="M6.2 16c7.42 0 11.5-6.16 11.5-11.5 0-.17 0-.34-.02-.52a8.22 8.22 0 0 0 2-2.1 8.06 8.06 0 0 1-2.3.65A4.05 4.05 0 0 0 19.14.3a8.1 8.1 0 0 1-2.57.97 4.04 4.04 0 0 0-6.88 3.7A11.47 11.47 0 0 1 1.34.73a4.04 4.04 0 0 0 1.25 5.4A4 4 0 0 1 .8 5.6c0 .02 0 .04 0 .06a4.04 4.04 0 0 0 3.23 3.96 4.03 4.03 0 0 1-1.83.07 4.04 4.04 0 0 0 3.78 2.8 8.1 8.1 0 0 1-5.02 1.7 8.22 8.22 0 0 1-.96 0A11.44 11.44 0 0 0 6.2 16"/></svg>
+			</a>
+		</li>
+		
+		
+		<li>
+			<a class="facebook" href="https://facebook.com/loopnaz/">
+				<svg xmlns="http://www.w3.org/2000/svg" width="15.98" height="16" viewBox="0 0 15.98 16"><path d="M.88 0A.88.88 0 0 0 0 .88v14.24a.88.88 0 0 0 .88.88h7.67V9.8H6.47V7.4h2.08V5.6c0-.25.02-.5.06-.72.28-1.5 1.3-2.34 2.74-2.45.1 0 .22 0 .34 0a17.7 17.7 0 0 1 .93.03 17.7 17.7 0 0 1 .93.05v2.2h-1.3c-.1 0-.22 0-.32.03-.7.1-.84.55-.84 1.16v1.5h2.4l-.3 2.4H11V16h4.1a.88.88 0 0 0 .88-.88V.88A.88.88 0 0 0 15.1 0z"/></svg>
+
+			</a>
+		</li>
+		
+		
+		<li>
+			<a class="linkedin" href="https://www.linkedin.com/company/loopnaz/">
+				<svg xmlns="http://www.w3.org/2000/svg" width="15.999" height="16" viewBox="0 0 16 16"><path d="M14.82 0C15.47 0 16 .52 16 1.15v13.7c0 .63-.53 1.15-1.18 1.15H1.18C.53 16 0 15.48 0 14.85V1.15C0 .52.53 0 1.18 0h13.64M4.75 13.63V6H2.37v7.63zm-1.2-8.67c.77 0 1.38-.62 1.38-1.38 0-.76-.6-1.38-1.37-1.38-.76 0-1.38.62-1.38 1.38 0 .76.62 1.38 1.38 1.38zm10.08 8.67V9.45c0-2.06-.44-3.64-2.84-3.64-1.2 0-1.97.67-2.3 1.27V6H6.24v7.63H8.6V9.86c0-1 .2-1.96 1.43-1.96 1.22 0 1.23 1.14 1.23 2.02v3.7z"/></svg>
+			</a>
+		</li>
+		
+		
+		
+		<li>
+			<a class="instagram" href="https://instagram.com/loopnaz/">
+				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path d="M14.7 1.32C13.88.45 12.7 0 11.33 0H4.68C1.88 0 0 1.87 0 4.68v6.6c0 1.4.45 2.6 1.35 3.46C2.23 15.58 3.4 16 4.7 16h6.6c1.38 0 2.54-.45 3.38-1.26.87-.84 1.32-2.03 1.32-3.42V4.68c0-1.36-.45-2.52-1.3-3.36zm-.12 10c0 1-.35 1.8-.93 2.36-.6.55-1.4.84-2.36.84H4.7c-.96 0-1.76-.3-2.35-.84-.58-.58-.87-1.4-.87-2.4V4.7c0-.97.3-1.78.87-2.36.55-.55 1.4-.84 2.36-.84h6.66c.97 0 1.78.3 2.36.87.56.6.88 1.4.88 2.33zm-1.35-7.58a.94.94 0 0 1-.94.94.94.94 0 0 1-.96-.94.94.94 0 0 1 .94-.93.94.94 0 0 1 .93.95zM8 3.84c-2.26 0-4.13 1.84-4.13 4.13 0 2.3 1.84 4.13 4.13 4.13 2.3 0 4.13-1.87 4.13-4.13S10.26 3.84 8 3.84zm0 6.77C6.55 10.6 5.35 9.44 5.35 8c0-1.45 1.2-2.66 2.65-2.66s2.65 1.2 2.65 2.65S9.45 10.6 8 10.6z" style="vector-effect:none"/></svg>
+
+			</a>
+		</li>
+		
+		
+		<li>
+			<a class="github" href="https://github.com/loopnaz/">
+				<svg xmlns="http://www.w3.org/2000/svg" width="16.439" height="16" viewBox="0 0 16.439986 16"><path d="M8.18 0C3.66 0 0 3.66 0 8.18c0 3.62 2.34 6.68 5.58 7.77.38.07.57-.2.57-.38 0-.22 0-.75 0-1.4-2.27.5-2.76-1.12-2.76-1.12-.4-.95-.9-1.14-.9-1.14-.8-.6 0-.6 0-.6.84 0 1.25.86 1.25.86.75 1.25 1.9.9 2.4.68.1-.53.28-.9.5-1.13C4.9 11.6 3 10.94 3 7.8c0-.9.27-1.62.76-2.26 0-.15-.38-.98.1-2.1 0 0 .7-.24 2.28.82C6.8 4.06 7.5 4 8.18 4c.68 0 1.4.07 2.04.26 1.62-1.06 2.26-.83 2.26-.83.5 1.13.2 1.96.1 2.15.54.6.84 1.32.84 2.26 0 3.1-1.88 3.77-3.77 4 .38.23.6.75.6 1.5 0 1.14 0 1.97 0 2.27 0 .2.2.48.6.4 3.25-1.12 5.6-4.14 5.6-7.76C16.35 3.66 12.7 0 8.17 0" opacity=".94"/></svg>
+			</a>
+		</li>
+		
+	</ul>
+</nav>
+
+</footer><script>
+	if ('querySelector' in document && 'addEventListener' in window && 'classList' in document.createElement('_')) {
+		// Variables
+var navButton = document.querySelector('nav button')
+
+// Toggle navigation lists
+navButton.addEventListener('click', function(event) {
+	var expanded = event.target.getAttribute('aria-expanded') === 'true' || false
+	event.target.setAttribute('aria-expanded', !expanded)
+	var menu = event.target.nextElementSibling
+	menu.classList.toggle('hidden')
+});
+
+	}
+</script>
+
+</body>
+</html>

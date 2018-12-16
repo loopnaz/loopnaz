@@ -1,0 +1,89 @@
+baseURL = "https://loopnaz.org/"
+languageCode = "en-us"
+publishDir = "docs"
+title = "The Loop Church of the Nazarene and Compassionate Ministries"
+theme = "twentyeighteen"
+copyright = "Copyright &copy; 2018 by The Loop Church of the Nazarene"
+# googleAnalytics = ""
+minify = false
+
+[params]
+	description = "We are the Loop Church of the Nazarene and Compassionate Ministries. Join us for our daily prayer walk, weekend gatherings, and caring for our neighbors in greatest need!"
+	favicon = "img/favicon.ico"
+
+[params.social]
+	twitter = "loopnaz"
+	facebook = "loopnaz"
+	linkedin = "loopnaz"
+	instagram = "loopnaz"
+	github = "loopnaz"
+
+[[menu.main]]
+	name = "About Us"
+	url = "/about/"
+	weight = 1
+
+[[menu.main]]
+	name = "Our Partners"
+	url = "/partners/"
+	weight = 2
+
+[[menu.main]]
+	name = "Join Us"
+	url = "/join/"
+	weight = 3
+
+[[menu.main]]
+	name = "Contact Us"
+	url = "/contact/"
+	weight = 4
+
+[[menu.main]]
+	name = "Support Us"
+	url = "/support/"
+	weight = 5
+
+[[menu.legal]]
+	name = "Terms"
+	url = "/terms/"
+	weight = 1
+
+[[menu.legal]]
+	name = "Privacy"
+	url = "/privacy/"
+	weight = 2
+
+[[menu.legal]]
+	name = "Credits"
+	url = "/colophon/"
+	weight = 3
+
+[permalinks]
+	post = "/:year/:month/:title/"
+
+[privacy]
+	[privacy.disqus]
+		disable = true
+	[privacy.googleAnalytics]
+		anonymizeIP = true
+		disable = false
+		respectDoNotTrack = true
+		useSessionStorage = true
+	[privacy.instagram]
+		disable = false
+		simple = true
+	[privacy.twitter]
+		disable = false
+		enableDNT = true
+		simple = true
+	[privacy.vimeo]
+		disable = false
+		simple = true
+	[privacy.youtube]
+		disable = false
+		privacyEnhanced = true
+
+[taxonomies]
+	author = "authors"
+	tag = "tags"
+	category = "categories"

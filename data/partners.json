@@ -1,0 +1,22 @@
+{
+	"ccd": {
+		"name": "Chicago Central District Church of the Nazarene",
+		"logo": "ccdnaz",
+		"url": "https://ccdnaz.church/"
+	},
+	"cotn": {
+		"name": "The International Church of the Nazarene",
+		"logo": "nazarene_wide-spread",
+		"url": "http://nazarene.org/"
+	},
+	"onu": {
+		"name": "Olivet Nazarene University",
+		"logo": "onu",
+		"url": "https://olivet.edu/"
+	},
+	"ncm": {
+		"name": "Nazarene Compassionate Ministries, Inc.",
+		"logo": "ncm",
+		"url": "https://ncm.org/"
+	}
+}

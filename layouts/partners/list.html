@@ -1,0 +1,27 @@
+{{ define "main" }}
+	<main id="main">
+		<article>
+			{{if isset .Params "thumbnail" }}
+			<header class="background-image" style="background-image:url({{ (print "/img/jpg/" .Params.thumbnail.src "." .Params.thumbnail.type) }}); {{if .Params.thumbnail.position}}background-position:{{.Params.thumbnail.position}};{{end}}">
+			{{else}}
+			<header>
+			{{end}}
+				<h1>{{ .Title}}</h1>
+			</header>
+			<section class="content">
+				{{ .Content }}
+			</section>
+			<nav>
+				<ul>
+					{{ range .Site.Data.partners }}
+						<li>
+							<a href="{{.url}}" title="{{.name}}">
+								{{ readFile (print "static/img/svg/" .logo ".svg") | safeHTML }}
+							</a>
+						</li>
+					{{ end }}
+				</ul>
+			</nav>
+		</article>
+	</main>
+{{ end }}

@@ -1,0 +1,16 @@
+{{ define "main" }}
+	<main id="main">
+		<header>
+			<h1>{{ .Title }}</h1>
+		</header>		
+		<nav>
+			<ul>
+				{{- range .Data.Pages }}	
+					<li class="background-image" style="background-image:url({{ (print .Params.photo) }});min-height:320px;max-width:320px;" title="{{.Params.thumbnail.alt}}">
+						<a href="{{ .Permalink }}" style="color:#fff;justify-content:start;">{{ .Params.name.full }}</a>
+					</li>
+				{{- end }}
+			</ul>
+		</nav>
+	</main>
+{{ end }}

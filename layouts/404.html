@@ -1,0 +1,20 @@
+{{ define "main" }}
+	<main id="main">
+		<article>
+			<header class="background-image" style="background-image:url({{(print "/404.jpg")}});">
+				<h1>Error! 404</h1>
+			</header>
+			<section class="content">
+				<h2>Oops! Don’t get out of the Loop!<h2>
+					<div style="font-size:1em;font-weight:400;">
+						<p>The page you requested could not be found.</p>
+						<p>Let’s get back on track:</p>
+						<p>
+							<span class="give-button"><a href="/" | relURL>Go Home</a></span>
+						</p>
+						<p>Please <a href="/contact/" |relURL>contact us</a> if you need assistance.</p>
+					</div>	
+			</section>
+		</article>
+	</main>
+{{ end }}
