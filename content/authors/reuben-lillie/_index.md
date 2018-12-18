@@ -1,6 +1,6 @@
 {
 	"name": {
-		"full": "Reuben L. Lillie",
+		"full": "Reuben Lillie",
 		"first": "Reuben"
 	},
 	"photo": "/img/jpg/rlillie_headshot_square.jpg",
