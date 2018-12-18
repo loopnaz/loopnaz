@@ -1,7 +1,7 @@
 {
 	"title": "Sunday",
 	"date": "2018-10-19T09:04:50-05:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"thumbnail": {
 		"src": "skyline-from-adler",
@@ -82,7 +82,7 @@ There is garage parking next door at 711 S Plymouth Ct. Parking lots are also ac
 
 #### Via Kennedy Expressway (I-90/I-94)
 
-Exit at Jackson Blvd (Exit 51 F–G); continue east (left) on Jackson across the river then six and a half more blocks to S Plymouth Ct; continue south (right)on S Plymouth Ct for two and a half blocks; 633 S Plymouth Ct (The Pope Building) will be on the left.
+Exit at Jackson Blvd (Exit 51 F–G); continue east (left) on Jackson across the river then six and a half more blocks to S Plymouth Ct; continue south (right) on S Plymouth Ct for two and a half blocks; 633 S Plymouth Ct (The Pope Building) will be on the left.
 
 #### Via Lakeshore Drive (US-41)
 
@@ -96,7 +96,6 @@ Exit at Lakeshore Drive/22nd St (Exit 53 C); keep left, following signs to 22nd 
 
 #### Lakeshore Drive (US-41)
 
-
 Exit at S Columbus Drive; continue north on S Columbus Dr to E Roosevlet Rd; continue west (left) on E Roosevelt Rd across S Michigan Ave then two more blocks to S State St; continue north (right) on S State St for three and a half blocks to W Polk St; continue west (left) on W Polk St one half block to S Plymouth Ct; continue north (right) on S Plymouth Ct for one half block; 633 S Plymouth Ct (The Pope Building) will be on the right. 
 
 #### Via Stevenson Expressway (I-55)
@@ -107,7 +106,7 @@ Exit at Cermak Rd (Exit 293A); turn east (right) onto W Cermak Rd then north (le
 
 #### Via Eisenhower Expressway (I-290)
 
-Exit at Congress Pkwy/Chicago Loop; continue east (straight) on W Congress Pkwy (Ida B. Wells Dr) for four and a half blocks to S Plymouth Ct; continue south (right)on S Plymouth Ct for one and a half blocks; 633 S Plymouth Ct (The Pope Building) will be on the left.
+Exit at Congress Pkwy/Chicago Loop; continue east (straight) on W Congress Pkwy (Ida B. Wells Dr) for four and a half blocks to S Plymouth Ct; continue south (right) on S Plymouth Ct for one and a half blocks; 633 S Plymouth Ct (The Pope Building) will be on the left.
 
 [amtrak]: https://www.amtrak.com/stations/chi
 [communion]: /communion/

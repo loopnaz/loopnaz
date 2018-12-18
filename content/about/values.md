@@ -1,7 +1,7 @@
 {
 	"title": "Our Values",
 	"date": "2018-10-19T09:03:46-05:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"thumbnail": {
 	    "src": "dunne",
@@ -23,7 +23,7 @@ Prayer is our highest priority and our primary method for engaging our neighbors
 
 Everything we do begins and ends and comes out of our response through prayer.
 
-We take a [daily prayer walk][prayer-walk] around our community outside outside points of interest like government buildings, schools, train stations, and parks. Whether you’re in the Loop often or this is your first time, we’re here to pray with you and for you and for our neighbors.
+We take a [daily prayer walk][prayer-walk] around our community outside points of interest like government buildings, schools, train stations, and parks. Whether you’re in the Loop often or this is your first time, we’re here to pray with you and for you and for our neighbors.
 
 Join us for our daily prayer walk and on [Sundays][sunday] for prayer and communion.
 
@@ -33,7 +33,7 @@ _When we say “we care”—we actually have to do it_.
 
 Our prayer and our primary response to the mission we’ve received is to engage our neighbors and our city leaders by establishing a full-scale system of Nazarene Compassionate Ministries in Chicago.
 
-Whether you need help making it through the day or becoming a neighbor to someone else who does, we’re here to for you like the Samaritan was for the man on the Jericho Road in Jesus’s story from Luke 10. Let’s help each other to ‘love the Lord your God with all your heart, with all your being, with all your strength, and with all your mind, and love your neighbor as yourself.’
+Whether you need help making it through the day or becoming a neighbor to someone else who does, we wnat to be here for you like the Samaritan was for the man on the Jericho Road in Jesus’s story from Luke 10. Let’s help each other to ‘love the Lord your God with all your heart, with all your being, with all your strength, and with all your mind, and love your neighbor as yourself.’
 
 Find us on our [daily prayer walk][prayer-walk] or [contact us][contact] for help or to volunteer.
 
@@ -43,11 +43,12 @@ _When we say “we share”—we live it_.
 
 Our resources, our mission, and our people are not ours alone. We want to partner with organizations of all shapes and sizes to make a lasting difference for our neighbors in downtown Chicago and around the world. 
 
-Whether you’re a [member][member] of the Church of the Nazarene or another group altogether or your business is interested in [partnering][partner] with us or enlisting our services, we’re eager to explore the possibilities.
+Whether you’re a [member][membership] of the Church of the Nazarene or another group altogether or your business is interested in [partnering][partner] with us or enlisting our services, we’re eager to explore the possibilities.
 
-Find us on our [daily prayer walk][prayer-walk] or [contact us][contact] so we can together.
+Find us on our [daily prayer walk][prayer-walk] or [contact us][contact] so we can get together.
 
 [contact]: /contact/
+[membership]: /join/membership/
 [partner]: /join/partnership/
 [prayer-walk]: /join/prayer-walk/
 [sunday]: /join/sunday/

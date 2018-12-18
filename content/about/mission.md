@@ -1,7 +1,7 @@
 {
 	"title": "Our Mission",
 	"date": "2018-10-19T09:01:30-05:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"thumbnail": {
 	    "src": "425-financial",

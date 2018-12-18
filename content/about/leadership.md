@@ -1,7 +1,7 @@
 {
 	"title": "Our Leadership",
 	"date": "2018-10-19T09:03:59-05:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"thumbnail": {
 	    "src": "lasalle-signage",
@@ -34,7 +34,7 @@ Reuben and Stephanie host [Sunday][sunday] gatherings in their home with their s
 
 {{< figure src="/img/jpg/efetzer_headshot_square.jpg" title="Meet Elise Fetzer!" class="float-left" >}}
 
-Elise is a senior at Olivet Nazarene University from Oak Lawn, IL. She will be graduating in May 2019 with a degree in Intercultural Studies. Elise is serving with LoopNaz both to receive field experience her my degree program and because she believes God is behind our mission in Chicago. After graduation, Elise hopes to continue sharing the love and mercy of God by serving and living in solidarity with marginalized populations.
+Elise is a senior at Olivet Nazarene University from Oak Lawn, IL. She will be graduating in May 2019 with a degree in Intercultural Studies. Elise is serving with LoopNaz both to receive field experience for her degree program and because she believes God is behind our mission in Chicago. After graduation, Elise hopes to continue sharing the love and mercy of God by serving and living in solidarity with marginalized populations.
 
 As part of her field studies, Elise is keeping an online [journal][elise-author]. Please read and pray along with us. Thanks Elise!
 

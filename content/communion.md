@@ -1,7 +1,7 @@
 {
 	"title": "Communion with LoopNaz",
 	"date": "2018-12-14T23:37:31-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"epigraph": {
 		"text": "Jesus said &hellip;, “Very truly I tell you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you. Whoever eats my flesh and drinks my blood has eternal life, and I will raise them up at the last day. For my flesh is real food and my blood is real drink. Whoever eats my flesh and drinks my blood remains in me, and I in them. Just as the living Father sent me and I live because of the Father, so the one who feeds on me will live because of me. This is the bread that came down from heaven. Your ancestors ate manna and died, but whoever feeds on this bread will live forever.”",
@@ -25,7 +25,7 @@ _Please note that out of respect for those with or overcoming addictions, food a
 
 ## Communion Bread Recipe
 
-The following recipe is modified from the January 2014 article, “The Quest for a Common Loaf,” by Angela Dienhart Hancock for the [_Christian Century_][common-loaf]. If your diet restricts any of these ingredients, then please [contact us][contact] before the Sunday you plan to visit and we’ll do our best to accommodate you. Thanks for helping us make the table as open and accesible as possible.
+The following recipe is modified from the January 2014 article, “The Quest for a Common Loaf,” by Angela Dienhart Hancock for the [_Christian Century_][common-loaf]. If your diet restricts any of these ingredients, then please [contact us][contact] before the Sunday you plan to visit and we’ll do our best to accommodate you. Thanks for helping us make the table as open and accessible as possible.
 
 ### Ingredients
 

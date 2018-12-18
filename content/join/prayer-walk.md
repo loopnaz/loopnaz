@@ -1,7 +1,7 @@
 {
 	"title": "Daily Prayer Walk",
 	"date": "2018-10-19T09:04:40-05:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"thumbnail": {
 		"src": "daley-plaza",
@@ -20,7 +20,7 @@
 
 Join us as we pray outside landmarks across our neighborhood and the surrounding community areas. Everyday we post times and locations on [Twitter][twitter] and [Facebook][facebook].
 
-You can also follow along with us on our [GoogleMap][map].
+You can also follow along with us on our [Google Map][map].
 
 [![GoogleMap displaying prayer walk locations](/img/png/prayer-walk-map.png "Click here to view the interactive GoogleMap in a separate tab")][map]
 
