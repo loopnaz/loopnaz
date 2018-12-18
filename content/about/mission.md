@@ -27,7 +27,7 @@ Anything worth believing is worth doing. This simple truth is the hallmark of an
 
 > <cite>[The Church of the Nazarene][cotn-mission]</cite>
 
-As Nazarenes, we're convinced that discipleship doesn't just happen—in fact, it _canr’'t happen without compassion_. Our name is our constant reminder and open invitation to follow the example of Jesus of Nazareth in caring for those who suffer among us and to share hope.
+As Nazarenes, we're convinced that discipleship doesn't just happen—in fact, it _can’t happen without compassion_. Our name is our constant reminder and open invitation to follow the example of Jesus of Nazareth in caring for those who suffer among us and to share hope.
 
 > ## The Mission of Nazarene Compassionate Ministries
 
