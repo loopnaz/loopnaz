@@ -1,7 +1,7 @@
 {
 	"title": "About Us",
 	"date": "2018-10-20T21:51:37-05:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie"
 }
 
@@ -9,7 +9,7 @@
 
 {{< svg "logo-color.svg" >}}
 
-We are a local church family and a not-for-profit compassionate ministry center—serving the heart of Chicago.
+We are a local church family and a not-for-profit compassionate ministry center—together we are serving the heart of Chicago.
 
 Following the example of Jesus of Nazareth, we are here to seek and to serve the toiling, struggling, sorrowing heart of the world.
 
