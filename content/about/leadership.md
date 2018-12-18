@@ -64,6 +64,6 @@ As part of her field studies, Elise is keeping an online [journal][elise-author]
 Please [contact us][contact] to connect with our pastor and other leaders. 
 
 [contact]: /contact/
-[elise-author]: /authors/efetzer/
+[elise-author]: /authors/elise-fetzer/
 [sunday]: /join/sunday/
 [white-castle]: https://www.whitecastle.com/cravernation/chof?year=2012&craverid=17
