@@ -1,0 +1,47 @@
+{{ define "main" }}
+	<main id="main">
+		<article>
+			<header>
+				<h1>{{ .Title }}</h1>
+			</header>
+			<section class="content">
+				<ol class="bylaws-articles">
+					{{ .Content }}
+					{{- range .Sections }}
+						{{ if eq .Title "Preamble" }}
+						<div class="bylaws-preamble">
+							<header>
+								<h2>{{ .Title }}</h2>
+							</header>
+							{{ .Content }}
+						</div>
+						{{ end }}
+					{{ end }}
+					{{- range .Sections }}
+						{{ if ne .Title "Preamble" }}
+						<li class="bylaws-article">
+							<h2>{{ .Title }}</h2>
+							{{ .Content }}
+							<ol class="bylaws-article-sections">
+							{{- range .Pages }}
+								<li class="bylaws-article-section">
+									<h3 class="inline-subhead">{{ .Title }}.</h3>&nbsp;{{ .Content }}
+								</li>
+							{{ end }}
+							</ol>
+						</li>
+						{{ end }}
+					{{ end }}
+					{{- range .Pages }}
+						<ol class="bylaws-article-sections">
+							<li class="bylaws-article-section">
+								<h3 class="inline-subhead">{{ .Title }}.</h3>&nbsp;{{ .Content }}
+							</li>
+						</ol>
+					{{ end }}
+					<p>Adopted by the Board of Directors on this 13th day of October, 2018.</p>
+				</ol>
+			</section>
+		</article>
+	</main>
+{{ end }}
