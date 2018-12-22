@@ -61,8 +61,11 @@ As part of her field studies, Elise is keeping an online [journal][elise-author]
 * Dennis Deer, County Board Commissioner of Cook County’s 2nd District
 * Bill Lowry, County Board Commissioner of Cook County’s 3rd District
 
+[Bylaws of the Loop Nazarene Compassionate Ministries, Inc.][bylaws]
+
 Please [contact us][contact] to connect with our pastor and other leaders. 
 
+[bylaws]: /bylaws/
 [contact]: /contact/
 [elise-author]: /authors/elise-fetzer/
 [sunday]: /join/sunday/

@@ -1,7 +1,7 @@
 {
 	"title": "Removal From Office",
 	"date": "2018-12-18T18:52:35-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"weight": 10
 }

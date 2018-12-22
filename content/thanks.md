@@ -1,7 +1,7 @@
 {
 	"title": "Thank you for Contacting Us",
 	"date": "2018-10-19T13:28:03-05:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie"
 }
 

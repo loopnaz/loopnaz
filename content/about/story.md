@@ -1,7 +1,7 @@
 {
 	"title": "Our Story",
 	"date": "2018-10-19T09:03:52-05:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"thumbnail": {
 	    "src": "clarke-house",

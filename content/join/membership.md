@@ -1,7 +1,7 @@
 {
 	"title": "Become a Member of Our Church",
 	"date": "2018-10-19T09:40:30-05:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"thumbnail": {
 		"src": "cta-destination-stairs-adams-wabash",

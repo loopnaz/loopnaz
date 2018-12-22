@@ -1,7 +1,7 @@
 {
 	"title": "Incorporation",
 	"date": "2018-12-18T18:49:11-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"weight": 1
 }

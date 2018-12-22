@@ -1,7 +1,7 @@
 {
 	"title": "Office Holding Limitations",
 	"date": "2018-12-18T18:52:46-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"weight": 11
 }

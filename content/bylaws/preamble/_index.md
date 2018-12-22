@@ -1,7 +1,7 @@
 {
 	"title": "Preamble",
 	"date": "2018-12-18T18:48:59-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"weight": 1
 }

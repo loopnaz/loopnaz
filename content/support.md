@@ -1,7 +1,7 @@
 {
 	"title": "Support Us",
 	"date": "2018-10-19T09:01:11-05:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"thumbnail": {
 		"src": "thanks-for-your-service-bcbsil",

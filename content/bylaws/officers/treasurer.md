@@ -1,7 +1,7 @@
 {
 	"title": "Treasurer",
 	"date": "2018-12-18T18:51:17-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"weight": 3
 }

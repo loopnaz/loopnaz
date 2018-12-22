@@ -1,7 +1,7 @@
 {
 	"title": "Join Us",
 	"date": "2018-10-20T21:51:55-05:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie"
 }
 

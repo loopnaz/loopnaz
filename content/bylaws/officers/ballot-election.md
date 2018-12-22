@@ -1,7 +1,7 @@
 {
 	"title": "Ballot Election",
 	"date": "2018-12-18T18:52:17-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"weight": 8
 }

@@ -1,7 +1,7 @@
 {
 	"title": "Our Partners",
 	"date": "2018-11-20T12:18:35-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"type": "partner"
 }

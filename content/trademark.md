@@ -1,7 +1,7 @@
 {
 	"title": "Trademark",
 	"date": "2018-11-23T11:32:03-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie"
 }
 

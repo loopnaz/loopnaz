@@ -1,7 +1,7 @@
 {
 	"title": "Colophon",
 	"date": "2018-11-20T14:15:21-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie"
 }
 

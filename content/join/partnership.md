@@ -1,7 +1,7 @@
 {
 	"title": "Become a Compassionate Ministry Partner",
 	"date": "2018-12-15T11:07:14-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"thumbnail": {
 		"src": "thompson-center",

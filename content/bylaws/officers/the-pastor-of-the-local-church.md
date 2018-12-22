@@ -1,7 +1,7 @@
 {
 	"title": "The Pastor of the Local Church",
 	"date": "2018-12-18T18:51:44-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"weight": 5
 }

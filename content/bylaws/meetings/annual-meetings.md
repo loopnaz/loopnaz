@@ -1,7 +1,7 @@
 {
 	"title": "Annual Meetings",
 	"date": "2018-12-18T18:53:45-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"weight": 2
 }

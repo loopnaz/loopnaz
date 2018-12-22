@@ -1,7 +1,7 @@
 {
 	"title": "Our Vision",
 	"date": "2018-10-19T09:03:36-05:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"thumbnail": {
 	    "src": "aerial-chicago",

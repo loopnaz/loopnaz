@@ -1,7 +1,7 @@
 {
 	"title": "Board Composition",
 	"date": "2018-12-18T18:54:42-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"weight": 1
 }

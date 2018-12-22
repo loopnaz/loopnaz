@@ -1,7 +1,7 @@
 {
 	"title": "Compensation",
 	"date": "2018-12-18T18:55:04-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"weight": 4
 }

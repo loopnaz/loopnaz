@@ -1,7 +1,7 @@
 {
 	"title": "Parliamentary Authority",
 	"date": "2018-12-18T18:56:18-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"weight": 9
 }

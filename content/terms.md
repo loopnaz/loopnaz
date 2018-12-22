@@ -1,7 +1,7 @@
 {
 	"title": "Terms of Use",
 	"date": "2018-11-18T19:01:24-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie"
 }
 

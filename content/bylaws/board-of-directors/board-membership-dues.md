@@ -1,7 +1,7 @@
 {
 	"title": "Board Membership Dues",
 	"date": "2018-12-18T20:53:57-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"weight": 3
 }

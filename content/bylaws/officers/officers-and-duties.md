@@ -1,7 +1,7 @@
 {
 	"title": "Officers and Duties",
 	"date": "2018-12-18T18:51:01-06:00",
-	"draft": "true",
+	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"weight": 1
 }
