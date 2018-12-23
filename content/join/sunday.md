@@ -28,7 +28,7 @@ Each week we post readings and additional event details on [Twitter][twitter] an
 
 If you can, please [let us know][contact] ahead of time that you're coming. If you’re driving, then we’re happy to help you find a parking spot. If you’re taking public transit, then we can meet you at the train or bus stop.
 
-Each Sunday we share a time of prayer and reflection on passages from the [_Revised Common Lectionary_][rcl]
+Each Sunday we share a time of prayer and reflection on passages from the [_Revised Common Lectionary_][rcl].
 
 Then we'll share the [Lord's Supper][communion] together.
 
@@ -64,6 +64,7 @@ The following CTA bus routes stop within two blocks:
 * 6 Jackson Park Express
 * 7 Harrison
 * 22 Clark
+* 24 Wentworth
 * 26 South Shore Express
 * 28 Stony Island
 * 29 State
@@ -90,11 +91,11 @@ Turn west (right) onto E Jackson Blvd for one block to S Columbus Dr; continue s
 
 ### Driving from the South
 
-#### Dan Ryan Expressway (I-90/I-94)
+#### Via Dan Ryan Expressway (I-90/I-94)
 
 Exit at Lakeshore Drive/22nd St (Exit 53 C); keep left, following signs to 22nd St/Chinatown; turn east (right) onto W Cermak Rd then north (left) onto S Clark St; continue north on S Clark St through the tunnel at W Roosevelt Rd; turn east (right) onto W Polk St; continue east on W Polk St for one and a half blocks to S Plymouth Ct; continue north (left) on S Plymouth Ct for one half block; 633 S Plymouth Ct (The Pope Building) will be on the right.
 
-#### Lakeshore Drive (US-41)
+#### Via Lakeshore Drive (US-41)
 
 Exit at S Columbus Drive; continue north on S Columbus Dr to E Roosevlet Rd; continue west (left) on E Roosevelt Rd across S Michigan Ave then two more blocks to S State St; continue north (right) on S State St for three and a half blocks to W Polk St; continue west (left) on W Polk St one half block to S Plymouth Ct; continue north (right) on S Plymouth Ct for one half block; 633 S Plymouth Ct (The Pope Building) will be on the right. 
 
