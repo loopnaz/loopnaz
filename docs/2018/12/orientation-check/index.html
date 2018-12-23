@@ -467,7 +467,7 @@ footer :not(.social) a:hover {
 	
 	.avatar {
 	display: flex;
-	align-items: center;
+	align-items: start;
 	margin-right: auto;
 }
 
@@ -478,75 +478,8 @@ footer :not(.social) a:hover {
 	width: 5em;
 }
 
-	
-	.bylaws-articles {
-	display: block;
-	counter-reset: article;
-}
-
-.bylaws-articles,
-.bylaws-article-sections {
-	list-style: none;
-	padding: 0;
-}
-
-.content,
-.bylaws-article {
-	counter-reset: section;
-}
-
-.bylaws-article::before {
-	content: "Article " counter(article, upper-roman) ". ";
-	counter-increment: article;
-	font-size: x-large;
-}
-
-.bylaws-article-section::before {
-	content: "Section " counter(section, decimal) ". ";
-	counter-increment: section;
-	margin-left: 4ch; 
-}
-
-.bylaws-article::before,
-.bylaws-article-section::before,
-.inline-subhead {
-	font-weight: 900;
-}
-
-.bylaws-preamble,
-.bylaws-article {
-	text-align: center;
-}
-
-.bylaws-article ol,
-.bylaws-preamble p,
-.bylaws-article p {
-	text-align: left;
-}
-
-.bylaws p {
-	text-indent: 4ch;
-}
-
-.bylaws-preamble p, 
-.bylaws-article p, 
-.bylaws-article-section {
-	margin-top: 1em;
-}
-
-.bylaws h1 {
-	font-size: xx-large;
-}
-
-.bylaws h2,
-.bylaws h3,
-.inline-subhead + p {
-	display: inline;
-}
-
-.bylaws-articles ol:not(.bylaws-article-sections) {
-	margin: 1em auto 1em 8ch;
-	padding: 0;
+.author-bio {
+	font-size: smaller;
 }
 
 	
@@ -711,6 +644,8 @@ footer :not(.social) a:hover {
 						<a href="https://loopnaz.org/authors/elise-fetzer/"><img src="/img/jpg/efetzer_headshot_square.jpg" alt="Author avatar"/></a>
 					  <figcaption>
 						  <a href="https://loopnaz.org/authors/elise-fetzer/">Elise Fetzer</a>
+						  <div class="author-bio"><p>Elise is a senior Intercultural Studies major at Olivet Nazarene University from Oak Lawn, IL. She is serving LoopNaz as part of her cross-cultural field studies coursework.</p>
+</div>
 					  </figcaption>
 					</figure>
 				  

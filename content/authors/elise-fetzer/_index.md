@@ -7,4 +7,4 @@
 	"twitter": "@alkafetzer"
 }
 
-Elise is a senior Intercultural Studies major at Olivet Nazarene University from Oak Lawn, IL. She is serving LoopNaz as part of her cross-cultural field studies.
+Elise is a senior Intercultural Studies major at Olivet Nazarene University from Oak Lawn, IL. She is serving LoopNaz as part of her cross-cultural field studies coursework.
