@@ -12,8 +12,15 @@
 <style type="text/css">
 	/* Normalize */
 html {
+	box-sizing: border-box;
 	line-height: 1.15;
 	-webkit-text-size-adjust: 100%;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
 }
 
 body,
@@ -29,6 +36,7 @@ h4,
 h5,
 iframe {
 	margin: 0 0 1em 0;
+	max-width: 100%;
 }
 
 section h2 {
@@ -81,7 +89,6 @@ main > section,
 main > article,
 .content,
 main > section {
-	justify-content: center;
 	align-items: center;
 }
 
@@ -209,6 +216,9 @@ button,
 
 .menu ul {
 	justify-content: space-around;
+	position: absolute;
+	width: 100%;
+	top: 32px;
 }
 
 .menu ul li {
@@ -218,6 +228,10 @@ button,
 /* Links */
 header a {
     color: inherit;
+}
+
+.site-logo {
+	max-width: 200px;
 }
 
 main a {
@@ -287,18 +301,12 @@ body > header {
 
 body > header svg {
 	fill: #fff;
-	height: 28px;
+	height: 100%;
 	width: auto;
-	padding-top: 2px;
-	padding-left: 2px;
-	margin-bottom: -2px;
+	padding: 2px;
 }
 
 /* Main */
-main {
-	padding-top: 32px;
-}
-
 main .center {
 	grid-column: span 2;
 }
@@ -317,9 +325,12 @@ body > footer {
 
 /* Content */
 .content {
-	padding: 1em;
 	width: calc(100% - 2em);
 	max-width: 49.5em;
+}
+
+main > article header:not(.background-image) {
+	padding-top: 32px;
 }
 
 main > article header.background-image {
@@ -331,6 +342,7 @@ main > article header.background-image {
     flex-direction: column;
     justify-content: center;
     width: 100%;
+	margin-bottom: 1em;
 }
 
 article header.background-image h1 {
@@ -422,7 +434,8 @@ footer nav ul,
 		display: flex;
 		flex-direction: row;
 		visibility: visible;
-		background-color: unset;
+		background-color: unset !important;
+		position: unset !important;
 	}
 
 	.menu ul li {
@@ -593,6 +606,7 @@ main + nav ul li a:hover {
 	content: "Section " counter(section, decimal) ". ";
 	counter-increment: section;
 	margin-left: 4ch; 
+	font-size: 1.15em;
 }
 
 .bylaws-article::before,
@@ -637,6 +651,10 @@ main + nav ul li a:hover {
 	padding: 0;
 }
 
+.inline-subhead {
+	font-size: 1.15em;
+}
+
 	
 </style>
 <link href="https://fonts.googleapis.com/css?family=Raleway:300,600&amp;subset=latin-ext" rel="stylesheet"> 
@@ -655,9 +673,7 @@ main + nav ul li a:hover {
 
 	<body class="taxonomyTerm tags"><header id="site-header">
 	<h1 class="hidden">The Loop Church of the Nazarene and Compassionate Ministries</h1>
-	<div>
-		<a href="/"><svg xmlns="http://www.w3.org/2000/svg" width="320" height="59.335" viewBox="0 0 84.66668 15.699007"><title>LoopNaz Header Logo</title><g baseline-shift="super"><path d="M84.33 15.33h.07l.1.25.1-.25h.07v.37h-.05v-.33l-.1.25h-.04l-.1-.25v.32h-.05zm-.36 0h.3v.04h-.12v.32h-.04v-.33h-.13zm-10-2.1l5.3-6.3H74.3V4.08h9.35v2.47l-5.28 6.28h5.48v2.88h-9.88zm-6.1-9.16h2.93l4.03 11.63h-3.25l-.7-2.28h-3.1l-.7 2.28h-3.24zm2.5 7.22l-1.03-3.6-1.08 3.6zm-15.4-3.32v7.72h-4.3V0h3.36l6.3 7.98V0h4.3v15.7h-3.42zm-50.66 3.8h7.13v.16H4.3zm34.32 3.92V0h6.77q1.13 0 2.1.5.98.45 1.66 1.22.7.76 1.1 1.75.4.98.4 1.97 0 1.04-.37 2.03-.38.98-1.07 1.75-.66.75-1.63 1.22-.95.44-2.1.44h-2.57v4.82zm4.3-8.58h2.3q.38 0 .72-.36.35-.37.35-1.32 0-.98-.4-1.33-.4-.34-.8-.34h-2.17zm-17.9-3.2l5.23 1.2L31.82 0l1.57 5.13 5.22-1.2-3.66 3.92 3.66 3.92-5.23-1.2-1.58 5.13-1.56-5.13-5.23 1.2 3.65-3.92zm-13.6 0l5.24 1.2L18.23 0l1.57 5.13 5.22-1.2-3.65 3.92 3.65 3.92-5.22-1.2-1.57 5.13-1.57-5.13-5.23 1.2 3.66-3.92zM0 0v15.7h11.43v-3.76H4.3V0zm3.04.75h.8v2.42H.45V.8h.82v1.43h.48V1h.76v1.23h.53zM.44 6.3h3.4v.94H2.53v1.13h1.32v.94H.44V8.4H1.7V7.24H.45zm0 5.76h.82v.98h2.6v.93h-2.6v.98h-.8z"/></g></svg></a>
-	</div><nav class="menu">
+		<a class="site-logo" href="/"><svg xmlns="http://www.w3.org/2000/svg" width="320" height="59.335" viewBox="0 0 84.66668 15.699007"><title>LoopNaz Header Logo</title><g baseline-shift="super"><path d="M84.33 15.33h.07l.1.25.1-.25h.07v.37h-.05v-.33l-.1.25h-.04l-.1-.25v.32h-.05zm-.36 0h.3v.04h-.12v.32h-.04v-.33h-.13zm-10-2.1l5.3-6.3H74.3V4.08h9.35v2.47l-5.28 6.28h5.48v2.88h-9.88zm-6.1-9.16h2.93l4.03 11.63h-3.25l-.7-2.28h-3.1l-.7 2.28h-3.24zm2.5 7.22l-1.03-3.6-1.08 3.6zm-15.4-3.32v7.72h-4.3V0h3.36l6.3 7.98V0h4.3v15.7h-3.42zm-50.66 3.8h7.13v.16H4.3zm34.32 3.92V0h6.77q1.13 0 2.1.5.98.45 1.66 1.22.7.76 1.1 1.75.4.98.4 1.97 0 1.04-.37 2.03-.38.98-1.07 1.75-.66.75-1.63 1.22-.95.44-2.1.44h-2.57v4.82zm4.3-8.58h2.3q.38 0 .72-.36.35-.37.35-1.32 0-.98-.4-1.33-.4-.34-.8-.34h-2.17zm-17.9-3.2l5.23 1.2L31.82 0l1.57 5.13 5.22-1.2-3.66 3.92 3.66 3.92-5.23-1.2-1.58 5.13-1.56-5.13-5.23 1.2 3.65-3.92zm-13.6 0l5.24 1.2L18.23 0l1.57 5.13 5.22-1.2-3.65 3.92 3.65 3.92-5.22-1.2-1.57 5.13-1.57-5.13-5.23 1.2 3.66-3.92zM0 0v15.7h11.43v-3.76H4.3V0zm3.04.75h.8v2.42H.45V.8h.82v1.43h.48V1h.76v1.23h.53zM.44 6.3h3.4v.94H2.53v1.13h1.32v.94H.44V8.4H1.7V7.24H.45zm0 5.76h.82v.98h2.6v.93h-2.6v.98h-.8z"/></g></svg></a><nav class="menu">
 	<button type="button" aria-expanded="false">Menu</button>
 	<ul class="hidden">	
 		
