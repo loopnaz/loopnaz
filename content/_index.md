@@ -10,12 +10,6 @@
 	}
 }
 
-<section class="center">
-	{{< svg "logo-stacked.svg" "white" >}}
-</section>
-<section>
-	{{< svg "dove-and-star.svg" "red" >}}
-</section>
-<section>
-	{{< svg "ncm-and-star.svg" "blue" >}}
+<section class="center has-figure">
+	{{< svg "logo-color.svg" "white" >}}
 </section>

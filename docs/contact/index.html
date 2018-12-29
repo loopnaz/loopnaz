@@ -43,6 +43,11 @@ section h2 {
 	width: 100%;
 }
 
+li h3 {
+	margin: 0;
+	display: inline;
+}
+
 a {
 	background-color: transparent;
 }
@@ -81,14 +86,14 @@ p img {
 
 main > article,
 .content,
-main > section,
+:not(.home) > main > section,
 .menu ul {
 	flex-direction: column;	
 }
 
 main > article,
 .content,
-main > section {
+:not(.home) > main > section {
 	align-items: center;
 }
 
@@ -334,11 +339,6 @@ body > header svg {
 	padding: 2px;
 }
 
-/* Main */
-main .center {
-	grid-column: span 2;
-}
-
 /* Footer */
 body > footer {
 	background-color: #eee;
@@ -357,7 +357,7 @@ body > footer {
 	max-width: 49.5em;
 }
 
-main > article header:not(.background-image) {
+main h1 {
 	padding-top: 32px;
 }
 
@@ -386,7 +386,7 @@ article header.background-image p {
 
 /* Aside */
 main + aside {
-	grid-row-start: 1;
+	grid-row-start: 3;
 }
 
 p img {
@@ -444,6 +444,12 @@ footer nav ul,
 	fill: #dd4b39;
 }
 
+main .center {
+	grid-column-start: 1;
+	grid-column-end: -1;
+	min-height: 50vh;
+}
+
 @media screen and (min-width: 640px) {
 	body > header {
 		display: flex;
@@ -495,11 +501,19 @@ footer :not(.social) a:hover {
 	color: #fff !important;
 	display: block;
 	width: 25vw;
-	min-width: 200px;
+	min-width: 150px;
+	max-width: calc(100% - 2em);
 	margin: 0 auto;
 	text-align: center;
 	text-decoration: none;
 	padding: 1em;
+	box-shadow: 3px 2px 1px rgba(0,0,0,0.5);
+}
+
+.give-button a:hover {
+	background: rgba(198, 12, 48,1.0);
+	border: 2px solid #c60c30;
+	box-shadow: 5px 4px 3px rgba(0,0,0,0.5);
 }
 
 	
@@ -902,6 +916,11 @@ textarea:focus {
 	if ('querySelector' in document && 'addEventListener' in window && 'classList' in document.createElement('_')) {
 		// Variables
 var navButton = document.querySelector('nav button')
+var prayerWalkDay = document.getElementById('prayerWalkDay')
+var oneDay = 24*60*60*1000 // hours*minutes*seconds*milliseconds
+var skipDays = 3 // Nov 22–24, 2018
+var startPrayerWalk = new Date(2018,07,01) // Aug 1, 2018
+var today = new Date
 
 // Toggle navigation lists
 navButton.addEventListener('click', function(event) {
@@ -909,7 +928,26 @@ navButton.addEventListener('click', function(event) {
 	event.target.setAttribute('aria-expanded', !expanded)
 	var menu = event.target.nextElementSibling
 	menu.classList.toggle('hidden')
-});
+})
+
+// Add Prayer Walk Count
+var count = Math.round(Math.abs((today.getTime() - startPrayerWalk.getTime() - (oneDay * skipDays))/(oneDay)))
+
+function animateCount(elem, start, end, duration) {
+	var range = end - start
+    var current = start
+    var increment = end > start? 1 : -1
+    var stepTime = Math.abs(Math.floor(duration / range))
+    var timer = setInterval(function() {
+        current += increment
+        elem.innerHTML = current
+        if (current == end) {
+            clearInterval(timer)
+        }
+    }, stepTime)
+}
+
+prayerWalkDay.innerHTML = animateCount(prayerWalkDay,0,count,2018)
 
 	}
 </script>
