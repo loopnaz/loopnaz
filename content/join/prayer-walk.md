@@ -22,7 +22,7 @@ Join us as we pray outside landmarks across our neighborhood and the surrounding
 
 You can also follow along with us on our [Google Map][map].
 
-[![GoogleMap displaying prayer walk locations](/img/png/prayer-walk-map.png "Click here to view the interactive GoogleMap in a separate tab")][map]
+{{< figure link="https://drive.google.com/open?id=1devD8CziyTh7ZVhc5ZlOkIk7wkho5iyg&usp=sharing" src="/img/png/prayer-walk-map.png" caption="A Google Map marking our daily prayer walk locations. Click the map to view an interactive version in a separate tab." target="blank" >}}
 
 ### Sundays—Our Neighborhood Parks
 
