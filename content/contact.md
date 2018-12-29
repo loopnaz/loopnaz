@@ -4,7 +4,13 @@
 	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"social": true,
-	"form": true
+	"form": true,
+	"thumbnail": {
+		"src": "us-post-office-loop-station",
+		"type": "jpg",
+		"alt": "US Post Office Loop Station at Federal Center Plaza",
+		"position": "center"
+	}
 }
 <form method="POST" action="https://formspree.io/theloopnaz@gmail.com">
 	<input type="hidden" name="_subject" value="New Form Submission">
