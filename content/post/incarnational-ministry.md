@@ -4,7 +4,7 @@
 	"draft": "false",
 	"authors": ["Elise Fetzer"],
 	"thumbnail": {
-		"alt": "Statue of St. Vincent DePaul outside DePaul University Center",
+		"alt": "Statue of St. Vincent DePaul outside DePaul Center in the Loop",
 		"position": "top",
 		"src": "statue-of-st-vincent-depaul",
 		"type": "jpg"
