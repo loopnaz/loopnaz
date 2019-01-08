@@ -8,6 +8,11 @@
 		"position": "top",
 		"src": "statue-of-st-vincent-depaul",
 		"type": "jpg"
+	},
+	"socialImage": {
+		"alt": "A bracelet of homemade prayer beads",
+		"src": "prayer-beads",
+		"type": "jpg"
 	}
 }
 
