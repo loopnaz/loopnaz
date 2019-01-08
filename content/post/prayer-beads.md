@@ -1,7 +1,7 @@
 {
 	"title": "Prayer Beads",
-	"date": "2019-01-04T10:00:00-06:00",
-	"draft": "true",
+	"date": "2019-01-05T10:00:00-06:00",
+	"draft": "false",
 	"authors": ["Elise Fetzer"],
 	"thumbnail": {
 		"alt": "Statue of St. Vincent DePaul outside DePaul Center in the Loop",
