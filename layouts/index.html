@@ -1,5 +1,5 @@
 {{ define "main" }}
-<main id="main" class="home background-image" style="background-image:url({{(print "/img/jpg/" .Params.thumbnail.src "." .Params.thumbnail.type) }});" title="{{.Params.thumbnail.alt}}">
+<main id="main" class="home background-image" style="background-image:url({{(print "/img/" .Params.thumbnail.type "/" .Params.thumbnail.src "." .Params.thumbnail.type) }});" title="{{.Params.thumbnail.alt}}">
 		{{ .Content }}
 		<section id="prayerWalk" class="block">
 			<a href="/join/prayer-walk/">

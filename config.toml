@@ -9,7 +9,6 @@ minify = false
 
 [params]
 	description = "We are the Loop Church of the Nazarene and Compassionate Ministries. Join us for our daily prayer walk, weekend gatherings, and caring for our neighbors in greatest need!"
-	favicon = "img/favicon.ico"
 
 [params.social]
 	twitter = "loopnaz"
@@ -17,6 +16,16 @@ minify = false
 	linkedin = "loopnaz"
 	instagram = "loopnaz"
 	github = "loopnaz"
+	facebookID = "868681589993192"
+
+[params.author]
+	name = "Reuben L. Lillie"
+	twitter = "reubenlillie"
+	facebook = "reubenlillie"
+	linkedin = "reubenlillie"
+	instagram = "reuben.lillie"
+	github = "reubenlillie"
+	facebookID = "1463850012"
 
 [[menu.main]]
 	name = "About Us"
