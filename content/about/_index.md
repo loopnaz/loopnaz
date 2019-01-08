@@ -2,7 +2,10 @@
 	"title": "About Us",
 	"date": "2018-10-20T21:51:37-05:00",
 	"draft": "false",
-	"author": "Reuben L. Lillie"
+	"author": "Reuben L. Lillie",
+	"meta": {
+		"description": "We are a local church family and a not-for-profit compassionate ministry center—together we are serving the heart of Chicago and following Jesus the Nazarene."
+	}
 }
 
 ## We are the Loop Church of the Nazarene and Compassionate Ministiries
