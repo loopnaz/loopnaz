@@ -3,6 +3,11 @@
 	"date": "2018-10-19T09:04:40-05:00",
 	"draft": "false",
 	"author": "Reuben L. Lillie",
+	"socialImage": {
+		"src": "prayer-walk-map",
+		"type": "png",
+		"alt": "Join us for our daily #PrayerWalk!"
+	},
 	"thumbnail": {
 		"src": "daley-plaza",
 		"type": "jpg",
