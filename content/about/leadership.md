@@ -55,7 +55,7 @@ As part of her field studies, Elise is keeping an online [journal][elise-author]
 * Jay Height, USA/Canada Regional Director of Nazarene Compassionate Ministries, Inc.
 * John C. Bowling, President of Olivet Nazarene University
 * Rahm Emanuel, Mayor of the City of Chicago
-* Pat Dowell, Alderman of Chicago’s 3rd Ward
+* Daniel S. Solis, Alderman of Chicago’s 25th Ward
 * Sophia King, Alderman of Chicago’s 4th Ward
 * Brendan Reilly, Alderman of Chicago’s 42nd Ward
 * Dennis Deer, County Board Commissioner of Cook County’s 2nd District
