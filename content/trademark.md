@@ -7,7 +7,7 @@
 
 Trademarks are words, graphic designs, or other indicia that identify the source of a product or service. The Loop Church of the Nazarene and Compassionate Ministries (collectively, “LoopNaz”) use a variety of trademarks.
 
-The logo; name(s) “The Loop Church of the Nazarene” and “The Loop Nazarene Compassionate Ministries”; and moniker “LoopNaz” are trademarked by the Loop Church of the Nazarene. Please feel free to use our logo for any of the following:
+The logo; the names “The Loop Church of the Nazarene” and “The Loop Nazarene Compassionate Ministries”; the moniker “LoopNaz”; and the phrase “Serving the heart of Chicago” are trademarked by the Loop Church of the Nazarene. Please feel free to use our logo for any of the following:
 
 * You are working in [partnership][partners] with LoopNaz and want to promote this
 * You need a logo for an event raising funds for LoopNaz projects

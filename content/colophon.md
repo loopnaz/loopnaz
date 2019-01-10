@@ -13,11 +13,11 @@ Built using [Hugo](https://gohugo.io)
 and [Vim](https://www.vim.org/)
 on [Ubuntu 18.04](https://www.ubuntu.com/)
 
-Typeset with [Raleway](https://fonts.google.com/specimen/Raleway/) font family
+Typeset with [Raleway](https://fonts.google.com/specimen/Raleway/) and [Permanent Marker](https://fonts.google.com/specimen/Permanent+Marker) font families.
 
 Colors and idicia inspired by the [City of Chicago](https://cityofchicago.org/) 
 and the [Chicago Transit Authority](https://www.transitchicago.com/)
 
 Custom maps created using [Google My Maps](https://www.google.com/maps/about/mymaps/)
 
-Images optimized with [Kraken](https://kraken.io/)
+Images optimized with [Kraken.io](https://kraken.io/)

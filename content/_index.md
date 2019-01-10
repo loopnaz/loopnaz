@@ -4,9 +4,8 @@
 	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"thumbnail": {
-		"src": "from-skydeck-southeast",
-		"type": "jpg",
-		"alt": "The view from Skydeck Chicago, looking southeast"
+		"src": "cta-destination-stairs-adams-wabash",
+		"type": "jpg"
 	},
 	"meta": {
 		"description": "We’re a church family and not-for-profit serving the heart of Chicago and following Jesus the Nazarene."
@@ -14,5 +13,9 @@
 }
 
 <section class="center has-figure">
-	{{< svg "logo-color.svg" "white" >}}
+	{{< svg "logo-color-shadow.svg" "white" >}}
+</section>
+
+<section class="center">
+	<h2>Serving the Heart of Chicago<sup>TM</sup></h2>
 </section>

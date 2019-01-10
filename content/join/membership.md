@@ -4,10 +4,10 @@
 	"draft": "false",
 	"author": "Reuben L. Lillie",
 	"thumbnail": {
-		"src": "cta-destination-stairs-adams-wabash",
+		"src": "from-skydeck-southeast",
 		"type": "jpg",
-		"alt": "Steps to the ‘L’ platfrom at Adams/Wabash",
-		"position": "center"
+		"alt": "View from Skydeck Chicago, looking southeast",
+		"position": "bottom"
 	},
 	"epigraph": {
 		"text": "We have many parts in one body, but the parts don’t all have the same function. In the same way, though there are many of us, we are one body in Christ, and individually we belong to each other.",
