@@ -1,5 +1,5 @@
 {
-	"title": "Lets Talk About Public Housing",
+	"title": "Let’s Talk About Public Housing",
 	"date": "2019-01-10T10:58:18-06:00",
 	"draft": "false",
 	"authors": ["Elise Fetzer"],
