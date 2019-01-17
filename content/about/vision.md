@@ -58,10 +58,10 @@ We have a vision to serve God and one another across societal lines of oppressio
 
 If your business or organization is interested in becoming a compassionate ministry [partner][partner], then please [contact us][contact] to connect with our Board of Directors.
 
-[care]: /about/values/#WeCare 
+[care]: /about/values/#we-care 
 [contact]: /contact/
 [mission]: /about/mission/
-[pray]: /about/values/#WePray
+[pray]: /about/values/#we-pray
 [partner]: /join/partnership/
-[share]: /about/values/#WeShare
+[share]: /about/values/#we-share
 [values]: /about/values/
