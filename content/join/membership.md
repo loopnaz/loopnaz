@@ -20,7 +20,7 @@ Being a member in the Church of the Nazarene makes you part of a global family. 
 
 If you're interested in becoming a member, please [contact us][contact]. Our pastor will personally assist you with any questions you may have while learning more about our history, beliefs, and what to expect as a member in the Church of the Nazarene in Chicago.
 
-> ## Agreed Statement of Belief
+## Agreed Statement of Belief
 
 > Recognizing that the right and privilege of persons to church membership rest upon the fact of their being regenerate, we would require only such avowals of belief as are essential to Christian experience. We, therefore, deem belief in the following brief statements to be sufficient. We believe:
 
@@ -32,7 +32,22 @@ If you're interested in becoming a member, please [contact us][contact]. Our pas
 > 1. That believers are to be sanctified wholly, subsequent to regeneration, through faith in the Lord Jesus Christ.
 > 1. The Holy Spirit bears witness to the new birth, and also to the entire sanctification of believers.
 > 1. Our Lord will return, the dead will be raised, and the final judgment will take place.
-> <cite>_Manual of the Church of the Nazarene: 2017–2021_, [para. 20–20.8][manual-asb]</cite>
+
+> <cite>_Manual of the Church of the Nazarene: 2017–2021_, [para. 20–20.8][manual-asb].</cite>
+
+## The Church
+
+> We believe in the Church, the community that confesses Jesus Christ as Lord, the covenant people of God made new in Christ, the Body of Christ called together by the Holy Spirit through the Word.
+
+> God calls the Church to express its life in the unity and fellowship of the Spirit; in worship through the preaching of the Word, observance of the sacraments, and ministry in His name; by obedience to Christ, holy living, and mutual accountability.
+
+> The mission of the Church in the world is to share in the redemptive and reconciling ministry of Christ in the power of the Spirit. The Church fulfills its mission by making disciples through evangelism, education, showing compassion, working for justice, and bearing witness to the kingdom of God.
+
+> The Church is a historical reality that organizes itself in culturally conditioned forms, exists both as local congregations and as a universal body, and also sets apart persons called of God for specific ministries. God calls the Church to live under His rule in anticipation of the consummation at the coming of our Lord Jesus Christ.
+
+> <cite>_Manual of the Church of the Nazarene: 2017–2021_, [para. 11][manual-11], in “[Articles of Faith][manual-aof].”</cite>
 
 [contact]: /contact/
+[manual-11]: http://2017.manual.nazarene.org/paragraph/p11/
+[manual-aof]: http://2017.manual.nazarene.org/section/articles-of-faith/
 [manual-asb]: http://2017.manual.nazarene.org/section/agreed-statement-of-belief/

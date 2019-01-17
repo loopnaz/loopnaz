@@ -17,5 +17,5 @@
 </section>
 
 <section class="center">
-	<h2>Serving the Heart of Chicago<sup>TM</sup></h2>
+	<h2>Serving the Heart of Chicago<sup><abbr title="Trademark">TM</abbr></sup></h2>
 </section>
