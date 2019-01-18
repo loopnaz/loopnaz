@@ -1,6 +1,6 @@
 {
 	"title": "Winter Is Here!",
-	"date": "2019-01-12T11:00:00-06:00",
+	"date": "2019-01-11T11:00:00-06:00",
 	"draft": "false",
 	"authors": ["Elise Fetzer"],
 	"thumbnail": {
