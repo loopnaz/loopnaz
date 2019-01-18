@@ -30,14 +30,6 @@ Inquiring minds may also wish to know that Reuben is a member of the [White Cast
 
 Reuben and Stephanie host [Sunday][sunday] gatherings in their home with their son Corban and their cat Tibbs.
 
-## Our Field Student 
-
-{{< figure src="/img/jpg/efetzer_headshot_square.jpg" title="Meet Elise Fetzer!" class="float-left" >}}
-
-Elise is a senior at Olivet Nazarene University from Oak Lawn, IL. She will be graduating in May 2019 with a degree in Intercultural Studies. Elise is serving with LoopNaz both to receive field experience for her degree program and because she believes God is behind our mission in Chicago. After graduation, Elise hopes to continue sharing the love and mercy of God by serving and living in solidarity with marginalized populations.
-
-As part of her field studies, Elise is keeping an online [journal][elise-author]. Please read and pray along with us. Thanks Elise!
-
 ## The Loop Nazarene Compassionate Ministries, Inc. Board of Directors
 
 ### Elected officers
@@ -64,6 +56,17 @@ As part of her field studies, Elise is keeping an online [journal][elise-author]
 [Bylaws of the Loop Nazarene Compassionate Ministries, Inc.][bylaws]
 
 Please [contact us][contact] to connect with our pastor and other leaders. 
+
+## Our Student Leaders
+
+### Elise Fetzer
+
+{{< figure src="/img/jpg/efetzer_headshot_square.jpg" title="Elise Fetzer" class="float-left" >}}
+
+Elise is a senior at Olivet Nazarene University from Oak Lawn, IL. From December 2018 through January 2019 Elise served with LoopNaz in partial fulfillment of her cross-cultural field experience for her Bachelor of Arts in Intercultural Studies.
+
+As part of her field studies, Elise kept an online [journal][elise-author]. Please read and pray along with us. Thanks Elise!
+
 
 [bylaws]: /bylaws/
 [contact]: /contact/
