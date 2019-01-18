@@ -5,7 +5,7 @@
 	"authors": ["Elise Fetzer"],
 	"thumbnail": {
 		"alt": "Sunset from the Cancer Survivors’ Garden in Grant Park",
-		"position": "bottom",
+		"position": "center",
 		"src": "cancer-survivors-garden-sunset",
 		"type": "jpg"
 	}
