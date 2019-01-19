@@ -103,8 +103,10 @@ html {
 	font-family: 'Raleway', sans-serif;
 }
 
-h1 {
+body:not(.bylaws) h1 {
 	font-size: 3em;
+	font-family: "Permanent Marker", cursive;
+	font-weight: 400;
 }
 
 h1,
@@ -243,7 +245,11 @@ button,
 }
 
 .menu ul li {
-	padding: 0.5em 0;
+	padding: 1.5em 0;
+}
+
+.menu ul li a {
+	font-weight: 600;
 }
 
 /* Links */
@@ -435,6 +441,9 @@ footer nav ul,
 main .center {
 	grid-column-start: 1;
 	grid-column-end: -1;
+}
+
+main .has-figure {
 	min-height: 50vh;
 }
 
@@ -464,6 +473,10 @@ main .center {
 	.menu ul li {
 		padding: unset;
 	}
+
+	.menu ul li a {
+		font-weight: 400;
+	}
 }
 
 @media screen and (min-width: 800px) {
@@ -489,7 +502,7 @@ footer :not(.social) a:hover {
 	color: #fff !important;
 	display: block;
 	width: 25vw;
-	min-width: 150px;
+	min-width: 250px;
 	max-width: calc(100% - 2em);
 	margin: 0 auto;
 	text-align: center;
