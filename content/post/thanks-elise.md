@@ -26,7 +26,7 @@ This was a holiday season neither Elise nor any of us will soon forget, she:
 * Volunteered with our neighbors experiencing homelessness at [Pacific Garden Mission][pgm]
 * Spent her first night ever in the city—at a [hostel][hostel]!
 * Took her first ever trip to [Chinatown][chinatown]
-* Hosted her [professor][mercers] and [a group of classmates][turnin-a-corner], showing them the Loop through new eyes
+* Hosted her [professor][mercers] and [a group of classmates][turning-a-corner], showing them the Loop through new eyes
 * Discovered a new way to [pray][prayer-beads] in the midst of a [family member’s cancer diagnosis][orientation].
 * Went [canvassing around the neighborhood][book-2], introducing LoopNaz to local storefront business
 * Read [four books][book-2] and wrote [18 blog posts][elise] in her spare time
