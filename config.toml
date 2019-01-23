@@ -1,5 +1,6 @@
 baseURL = "https://loopnaz.org/"
-languageCode = "en-us"
+defaultContentLanguage = "en"
+languageCode = "en"
 publishDir = "docs"
 title = "The Loop Church of the Nazarene and Compassionate Ministries"
 theme = "twentyeighteen"
