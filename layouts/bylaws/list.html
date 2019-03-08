@@ -19,12 +19,12 @@
 					{{ end }}
 					{{- range .Sections }}
 						{{ if ne .Title "Preamble" }}
-						<li class="bylaws-article">
+						<li id="{{.Title | urlize}}" class="bylaws-article">
 							<h2>{{ .Title }}</h2>
 							{{ .Content }}
 							<ol class="bylaws-article-sections">
 							{{- range .Pages }}
-								<li class="bylaws-article-section">
+							<li id="{{.Title | urlize}}" class="bylaws-article-section">
 									<h3 class="inline-subhead">{{ .Title }}.</h3>&nbsp;{{ .Content }}
 								</li>
 							{{ end }}
