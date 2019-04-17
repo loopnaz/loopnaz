@@ -21,7 +21,7 @@ We invite everyone to participate. And we want everyone to be able to participat
 
 In other words, you don’t have to be a [member][membership] of our local church or the Church of the Nazarene. And if you’ve not yet been baptized, then we’d further like to invite you to [connect with us][contact] so we can prepare for that sacrament together too.
 
-_Please note that out of respect for those with or overcoming addictions, food allergies, or dietary restrictions, at LoopNaz we offer only non-alcoholic juice and we bake bread fresh each week so that it is gluten free, nut free, nightshade free, and vegan._
+_Please note that out of respect for those with or overcoming addictions, food allergies, or dietary restrictions, at LoopNaz we offer only non-alcoholic juice and we bake bread fresh each week so that it is dairy free, egg free, gluten free, nightshade free, nut free and vegan._
 
 ## Communion Bread Recipe
 
@@ -54,11 +54,11 @@ In a large bowl, combine dry ingredients with whisk or sifter.
 
 After the yeast has activated, add psyllium husks, chia seeds, syrup, and oil to wet ingredients, stirring gently, allowing to activate for an additional 2–3 minutes, stirring once more before adding to dry ingredients.
 
-Fold activated wet ingredients into mixed dry ingredients; then turn dough out onto a floured board and knead for 5–10 minutes; place kneaded dough into an oiled bowl, cover with a warm damp towel, and proof for 40 minutes to 1 hour.
+Fold activated wet ingredients into mixed dry ingredients; then turn dough out onto a lightly floured surface and knead 5–10 minutes; place kneaded dough into an oiled bowl, cover with a warm damp towel, and proof for 40 minutes to 1 hour.
 
-After first proof, begin preheating oven to 400°F (with a pizza stone on a lower center rack); punch down proofed dough and knead on a lightly floured board for 1–2 minutes; then, on parchment paper, form dough into a 10 inch round loaf; with a sharp knife, score top making a crosshatch pattern; brush or coat with oil and allow to proof for another 30 minutes.
+After first proof, begin preheating oven to 400°F (with a pizza stone on a lower center rack); punch down proofed dough and knead on a lightly floured surface 1–2 minutes; then, on parchment paper, form dough into a 10 inch round loaf; with a sharp knife, score top making a crosshatch pattern; brush or coat with oil and allow to proof for another 30 minutes.
 
-After the second proof, place the loaf and parchment in oven and bake for 40–50 minutes until dark golden brown.
+After the second proof, place the loaf and parchment in oven and bake 40–50 minutes until dark golden brown.
 
 [common-loaf]: https://www.christiancentury.org/blogs/archive/2014-01/quest-common-loaf
 [communion-bread-ingredients]: /img/jpg/communion-bread-ingredients.jpg
