@@ -18,11 +18,13 @@
 
 ## You're invited!
 
-**When:** Sundays 10:30 a.m.
+**When:** Sundays 5:30 p.m.
 
 **Where:** 633 S Plymouth Ct, #703, Chicago, IL 60605
 
-On Sunday mornings we meet in the home of Reuben and Stephanie Lillie.
+On Sunday evenings we meet in the home of Reuben and Stephanie Lillie.
+
+(In the mornings, we’re traveling to meet with other Chicagoland churches to strengthen connections between other local faith communities and our shared mission downtown. Then, members from those churches are joining us in the evenings too.)
 
 Each week we post readings and additional event details on [Twitter][twitter] and [Facebook][facebook] to help you prepare for our time together and to make it easier for you to invite others through social media.
 
@@ -46,7 +48,7 @@ The following <abbr title="Chicago Transity Authority">CTA</abbr> train stations
 
 * <span style="color:#c60c30;">**Red**</span> (Harrison)
 * <span style="color:#00a1de;">**Blue**</span> (Jackson)
-* <span style="color:#009b3a;">**Green**</span> (Adams/Wabash; Roosevelt) 
+* <span style="color:#009b3a;">**Green**</span> (Adams/Wabash; Roosevelt)
 * <span style="color:#62361b;">**Brown**</span>, <span style="color:#f9461c;">**Orange**</span>, <span style="color:#e27ea6;">**Pink**</span>, and <span style="color:#522398;">**Purple**</span> (Harold Washington Library-State/Van Buren)
 
 The [Metra Electric District][metra-med] and [South Shore Lines][south-shore] stop at Van Buren. And the [Metra Rock Island District][metra-rid] stops at LaSalle Street.
@@ -97,7 +99,7 @@ Exit at Lakeshore Drive/22nd St (Exit 53 C); keep left, following signs to 22nd 
 
 #### Via Lakeshore Drive (US-41)
 
-Exit at S Columbus Drive; continue north on S Columbus Dr to E Roosevlet Rd; continue west (left) on E Roosevelt Rd across S Michigan Ave then two more blocks to S State St; continue north (right) on S State St for three and a half blocks to W Polk St; continue west (left) on W Polk St one half block to S Plymouth Ct; continue north (right) on S Plymouth Ct for one half block; 633 S Plymouth Ct (The Pope Building) will be on the right. 
+Exit at S Columbus Drive; continue north on S Columbus Dr to E Roosevlet Rd; continue west (left) on E Roosevelt Rd across S Michigan Ave then two more blocks to S State St; continue north (right) on S State St for three and a half blocks to W Polk St; continue west (left) on W Polk St one half block to S Plymouth Ct; continue north (right) on S Plymouth Ct for one half block; 633 S Plymouth Ct (The Pope Building) will be on the right.
 
 #### Via Stevenson Expressway (I-55)
 
