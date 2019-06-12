@@ -2,7 +2,7 @@
 
 _Serving the heart of Chicago_<sup><abbr title="Trademark">TM</abbr></sup>
 
-Welcome to the sourcecode repository for LoopNaz’s website.
+Welcome to the sourcecode repository for [LoopNaz’s website](https://loopnaz.org/).
 
 We are both a local church and a not-for-profit.
 
