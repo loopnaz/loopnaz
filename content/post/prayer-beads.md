@@ -22,7 +22,7 @@ And although I hadn’t noticed the reference Reuben was actually trying to make
 
 As I mentioned in my [first post][orientation], that first prayer walk made me aware just how undisciplined my prayer life and attentiveness to conversation with God had become.
 
-What I didn’t add in that first post is that it wasn’t particularly shocking to me that I’d gotten that way. As I later mentioned to Reuben, this past semester at college and even the summer before had been some the most spiritually undisciplined times in my life.
+What I didn’t add in that first post is that it wasn’t particularly shocking to me that I’d gotten that way. As I later mentioned to Reuben, this past semester at college and even the summer before had been some of the most spiritually undisciplined times in my life.
 
 And this is definitely a reflection of the fact that the past eighteen months also have been filled with the most questions, the most uncertainties, and the most doubt that I’ve experienced in regards to God and my faith.
 
