@@ -35,7 +35,6 @@ Reuben and Stephanie host [Sunday][sunday] gatherings in their home with their s
 ### Elected officers
 
 * Reuben L. Lillie, chairperson
-* Amanda Hogan, secretary
 * Don Wilson, treasurer
 * Cris Allen
 * Elliot Johnson
@@ -45,10 +44,10 @@ Reuben and Stephanie host [Sunday][sunday] gatherings in their home with their s
 
 * Larry D. McKain, District Superintendent of the Chicago Central District Church of the Nazarene
 * Jay Height, USA/Canada Regional Director of Nazarene Compassionate Ministries, Inc.
-* John C. Bowling, President of Olivet Nazarene University
-* Lori Lightfoot, Mayor of the City of Chicago
+* Gregg Chenoweth, President of Olivet Nazarene University
+* Brandon Johnson, Mayor of the City of Chicago
 * Byron Sigcho-Lopez, Alderman of Chicago’s 25th Ward
-* Sophia D. King, Alderman of Chicago’s 4th Ward
+* Lamont J. Robinson, Alderman of Chicago’s 4th Ward
 * Brendan Reilly, Alderman of Chicago’s 42nd Ward
 * Dennis Deer, County Board Commissioner of Cook County’s 2nd District
 * Bill Lowry, County Board Commissioner of Cook County’s 3rd District
@@ -56,16 +55,6 @@ Reuben and Stephanie host [Sunday][sunday] gatherings in their home with their s
 [Bylaws of the Loop Nazarene Compassionate Ministries, Inc.][bylaws]
 
 Please [contact us][contact] to connect with our pastor and other leaders.
-
-## Our Student Leaders
-
-### Elise Fetzer
-
-{{< figure src="/img/jpg/efetzer_headshot_square.jpg" title="Elise Fetzer" class="float-left" >}}
-
-Elise is a senior at Olivet Nazarene University from Oak Lawn, IL. From December 2018 through January 2019 Elise served with LoopNaz in partial fulfillment of her cross-cultural field experience for her Bachelor of Arts in Intercultural Studies.
-
-As part of her field studies, Elise kept an online [journal][elise-author]. Please read and pray along with us. Thanks Elise!
 
 
 [bylaws]: /bylaws/
