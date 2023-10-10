@@ -10,21 +10,6 @@
 				</article>
 			</a>
 		</section>
-		<section id="news" class="block">
-			<article>
-				<h2><a href="/post/">Latest News</a></h2>
-				<ul>
-				{{ range first 3 (where .Pages.ByPublishDate.Reverse ".Type" "post") }}
-					<li>
-						<a href="{{ .Permalink }}" class="nav-link">
-							<h3>{{ .Title }}</h3>
-							<p class="post-date">{{.PublishDate.Format "Monday, January 2, 2006"}}</p>
-						</a>
-					</li>
-				{{ end }}
-				</ul>
-			</article>
-		</section>
 		<section id="sunday" class="block">
 			<article>
 				<a href="/join/sunday/">
